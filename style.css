@@ -1,0 +1,31 @@
+*{
+  font-family: 'Times New Roman', Times, serif;
+  color: burlywood;
+  background-color: #987654;
+}
+.title{
+    text-align:center;
+}
+.title.sub{
+    margin-bottom: 40px;
+    
+}
+.div,
+.link,
+img{
+    margin:auto;
+    display: block;
+}
+.link{
+    text-decoration: none;
+    text-align: center;
+    background-color: #7d6043;
+    padding:8px;
+    border:4px solid;
+    width: 500px;
+    height:auto;
+    
+}
+.link:hover{
+    background-color:#c2986e;
+}
